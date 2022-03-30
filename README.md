@@ -10,14 +10,14 @@ $ npm install --save luobo-node-utils
 ## Usage
 
 ```js
-const yjzNodeUtils = require('luobo-node-utils');
+const path = require("path");
+const { batchReadFile } = require('luobo-node-utils');
 
-yjzNodeUtils('Rainbow');
+batchReadFile(path.resolve(__dirname, 'filepath'));
 ```
 ## License
 
 MIT © [jinzhanye]()
-
 
 [npm-image]: https://badge.fury.io/js/luobo-node-utils.svg
 [npm-url]: https://npmjs.org/package/luobo-node-utils
