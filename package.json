@@ -1,5 +1,5 @@
 {
-  "name": "yjz-node-utils",
+  "name": "luobo-node-utils",
   "version": "0.0.0",
   "description": "",
   "homepage": "",
@@ -63,7 +63,7 @@
     "pretest": "eslint .",
     "test": "jest"
   },
-  "repository": "jinzhanye/yjz-node-utils",
+  "repository": "jinzhanye/luobo-node-utils",
   "jest": {
     "testEnvironment": "node"
   },

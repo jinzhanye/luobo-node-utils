@@ -1,16 +1,16 @@
-# yjz-node-utils [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# luobo-node-utils [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > 
 
 ## Installation
 
 ```sh
-$ npm install --save yjz-node-utils
+$ npm install --save luobo-node-utils
 ```
 
 ## Usage
 
 ```js
-const yjzNodeUtils = require('yjz-node-utils');
+const yjzNodeUtils = require('luobo-node-utils');
 
 yjzNodeUtils('Rainbow');
 ```
@@ -19,9 +19,9 @@ yjzNodeUtils('Rainbow');
 MIT © [jinzhanye]()
 
 
-[npm-image]: https://badge.fury.io/js/yjz-node-utils.svg
-[npm-url]: https://npmjs.org/package/yjz-node-utils
-[travis-image]: https://travis-ci.com/jinzhanye/yjz-node-utils.svg?branch=master
-[travis-url]: https://travis-ci.com/jinzhanye/yjz-node-utils
-[daviddm-image]: https://david-dm.org/jinzhanye/yjz-node-utils.svg?theme=shields.io
-[daviddm-url]: https://david-dm.org/jinzhanye/yjz-node-utils
+[npm-image]: https://badge.fury.io/js/luobo-node-utils.svg
+[npm-url]: https://npmjs.org/package/luobo-node-utils
+[travis-image]: https://travis-ci.com/jinzhanye/luobo-node-utils.svg?branch=master
+[travis-url]: https://travis-ci.com/jinzhanye/luobo-node-utils
+[daviddm-image]: https://david-dm.org/jinzhanye/luobo-node-utils.svg?theme=shields.io
+[daviddm-url]: https://david-dm.org/jinzhanye/luobo-node-utils
